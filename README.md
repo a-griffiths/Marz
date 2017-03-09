@@ -2,8 +2,8 @@
 
 *****
 
-Forked version of the Marz Redshifting program: https://github.com/Samreay/Marz to include higher redshift templates.
-This version can be found at https://a-griffiths.github.io/Marz
+Forked version of the Marz Redshifting program by [Samreay](https://github.com/Samreay/Marz) to include higher redshift templates.
+This version can be found at [here](https://a-griffiths.github.io/Marz)
 
 *****
 
