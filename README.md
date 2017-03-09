@@ -2,20 +2,21 @@
 
 *****
 
-Forked version of the Marz Redshifting program by Samreay to include higher redshift templates.
+Forked version of the Marz Redshifting program: github.com/Samreay/Marz to include higher redshift templates.
+This version can be found at a-griffiths.github.io/Marz
 
 *****
 
 This project aims to take spectra from the AAOmega spectrograph and redshift them via an online application, for application in cosmology. It has since been generalised to take spectra from any spectrograph, given it follows a well defined input format.
 
-Instructions for use can be found in the application itself, which you can access at https://a-griffiths.github.io/Marz.
+Instructions for use can be found in the application itself, which you can access at http://samreay.github.io/Marz.
 
 ***** 
 
 
 # Local servers
 
-A publicly available server is running via Github-pages at https://a-griffiths.github.io/Marz. Local servers can be start by downloading this project, and (depending on your operating system) running `runServer.bat` or `runServer.sh`. Doing so requires an available Python installation on your path.
+A publicly available server is running via Github-pages at http://samreay.github.io/Marz. Local servers can be start by downloading this project, and (depending on your operating system) running `runServer.bat` or `runServer.sh`. Doing so requires an available Python installation on your path.
 
 # Command Line Interface
 
