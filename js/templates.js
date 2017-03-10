@@ -223,8 +223,8 @@ function TemplateManager(process, shiftToMatch) {
         name: 'Quasar 2 Test', // quasar from somewhere
         shift: true,
         redshift: 0,
-        start_lambda: 900,
-        end_lambda: 5748,
+        start_lambda: 1131.5061035156,
+        end_lambda: 3887.73291015625,
         z_start: 0.2,
         z_end: 5,
         log_linear: false,
