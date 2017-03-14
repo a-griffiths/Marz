@@ -24,7 +24,7 @@ angular.module('servicesZ', ['dialogs.main'])
                 detailed: {
                     bounds: {
                         redshiftMin: 0,
-                        redshiftMax: 5,
+                        redshiftMax: 6,
                         maxMatches: 5,
                         maxSmooth: 7
                     },
