@@ -59,7 +59,7 @@ globalConfig.endPowerQ = 4.6;
 globalConfig.startPower = 2.8;
 globalConfig.endPower = 4.6;
 //global.arraySize = 65536; // Must be a power of two
-globalConfig.arraySize = 32768; // Must be a power of two (32768 or 65536)
+globalConfig.arraySize = 65536; // Must be a power of two (32768 or 65536)
 globalConfig.returnedMax = 1024;
 
 // CONFIG FOR XCORR NORMALISATION
