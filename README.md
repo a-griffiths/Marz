@@ -4,8 +4,6 @@
 
 Forked version of the Marz Redshifting program by [Samreay](https://github.com/Samreay/Marz) to include higher redshift templates.
 
-This version can be found [here](https://a-griffiths.github.io/Marz)
-
 *****
 
 This project aims to take spectra from the AAOmega spectrograph and redshift them via an online application, for application in cosmology. It has since been generalised to take spectra from any spectrograph, given it follows a well defined input format.
